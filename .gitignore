@@ -1,0 +1,11 @@
+#Archivo gitgnore - Proyectos Java
+
+**.metadata/
+**/*.class
+**/*.classpath
+**/*.jar
+**/bin/
+**/build/
+**/*.project
+**/*.classpath
+**/*.settings/
