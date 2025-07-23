@@ -28,8 +28,29 @@ Desarrollar 30 mini-proyectos que me permitan:
 ├── README.md
 └── .gitignore
 
-🛠️ Herramientas utilizadas
-🧠 Lenguaje: Java 17
+
+```
+---
+## 🛠️ Herramientas utilizadas
+🧠 Lenguaje: Java 21
 💻 IDE: Eclipse IDE
 🌐 Control de versiones: Git & GitHub
 🗂️ Sistema operativo: macOS y Windows (según disponibilidad)
+
+---
+## Cómo clonar este repositorio
+```bash
+git clone https://github.com/EdgarEstDo/30days_NoobProjects.git
+cd 30days_NoobProjects
+
+```
+Luego, puedes abrir cada subproyecto desde Eclipse como proyecto existente.
+
+---
+
+ ## ✍️ Autor
+Nombre: Edgar Estrada
+💼 GitHub: @EdgarEstDo
+
+
+
