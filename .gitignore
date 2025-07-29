@@ -1,11 +1,19 @@
 #Archivo gitgnore - Proyectos Java
 
+
+# Ignorar archivos creados por Eclipse
 **.metadata/
-**/*.class
-**/*.classpath
-**/*.jar
-**/bin/
-**/build/
-**/*.project
 **/*.classpath
 **/*.settings/
+**/*.project
+
+#Ignorar archivos compilados
+**/bin/
+**/build/
+**/*.jar
+**/*.class
+
+#Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
+
