@@ -19,7 +19,7 @@ public class Utilidades {
 	 */
 	public String mensajeInicial() {
 
-		return "Bienvenido al campeonato contra la máquina para adivinar números aleatorios.\n\n Dispones de 5 intentos, ¡No los desperdicies! \n";
+		return "Bienvenido al campeonato contra la máquina para adivinar números aleatorios.\n\nDispones de 5 intentos, ¡No los desperdicies! \n";
 
 	}
 
@@ -48,7 +48,7 @@ public class Utilidades {
 		do {
 			try {
 
-				System.out.print("Introduzca el número que crees que se ha generado: ");
+				System.out.print("\nIntroduzca el número que crees que se ha generado: ");
 				valor = Integer.parseInt(sc.nextLine());
 				valOk = true;
 
